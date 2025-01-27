@@ -61,7 +61,22 @@ let Eboard = [
       major: "2nd-year Animal Science/Psychology",
       picture: require("../sources/Tiffany_sp25.jpg"),
       insta: "tiffanykim6"
+    },
+    {
+      name: "Anna Chen",
+      position: "Outreach",
+      major: "1st-year Chemical engineering",
+      picture: require("../sources/Anna_sp25.jpg"),
+      insta: "annac17_"
+    },
+    {
+      name: "Maggie Gu",
+      position: "Secretary",
+      major: "1st-year Electrical Engineering",
+      picture: require("../sources/Maggie_sp25.jpg"),
+      insta: "maggyg."
     }
+
 ];
 
 export default Eboard;
