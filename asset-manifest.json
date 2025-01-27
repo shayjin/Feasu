@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.19e7375a.css",
-    "main.js": "/static/js/main.57dee2ad.js",
+    "main.js": "/static/js/main.a6e68c43.js",
     "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
     "static/media/invfair.png": "/static/media/invfair.6a92735901a85c8dea76.png",
+    "static/media/Maggie_sp25.jpg": "/static/media/Maggie_sp25.64ce22629a2fad527985.jpg",
     "static/media/langnight.png": "/static/media/langnight.db678f6e2d5929627679.png",
     "static/media/1stgbm.png": "/static/media/1stgbm.a773d8c938f51ecf6271.png",
     "static/media/eboard2324.png": "/static/media/eboard2324.01d2bdef163fc7b9359f.png",
@@ -21,6 +22,7 @@
     "static/media/yuting_sp24_2.jpg": "/static/media/yuting_sp24_2.0aed0ce02a141af66e29.jpg",
     "static/media/jiyun_sp24.png": "/static/media/jiyun_sp24.6d44d9ef579a53fdee96.png",
     "static/media/경민.png": "/static/media/경민.1e171fc99914ef735c99.png",
+    "static/media/Anna_sp25.jpg": "/static/media/Anna_sp25.af4bba972d5cd270a89a.jpg",
     "static/media/vivian_sp24.jpg": "/static/media/vivian_sp24.54dd0f7cd246191695b5.jpg",
     "static/media/jamesahn_sp24.png": "/static/media/jamesahn_sp24.c1ac888717040ad44745.png",
     "static/media/easc_film_screening.png": "/static/media/easc_film_screening.5de4cd4ce5d6f6714f8e.png",
@@ -64,11 +66,11 @@
     "static/media/씹덕.png": "/static/media/씹덕.5f7e5afb39c248ae3dad.png",
     "index.html": "/index.html",
     "main.19e7375a.css.map": "/static/css/main.19e7375a.css.map",
-    "main.57dee2ad.js.map": "/static/js/main.57dee2ad.js.map",
+    "main.a6e68c43.js.map": "/static/js/main.a6e68c43.js.map",
     "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.19e7375a.css",
-    "static/js/main.57dee2ad.js"
+    "static/js/main.a6e68c43.js"
   ]
 }
